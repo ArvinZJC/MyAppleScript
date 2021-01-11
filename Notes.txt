@@ -1,0 +1,1 @@
+Actually, showing/hiding hidden files can be easily achieved by typing Command + Shift + .
