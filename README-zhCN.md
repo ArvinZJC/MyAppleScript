@@ -9,11 +9,11 @@
 
 ## 脚本说明
 
-### [Hidden Files Helper.app](./Hidden Files Helper.app)
+### [Hidden Files Helper.app](./Hidden%20Files%20Helper.app)
 
 虽然但是，写一个Apple Script应用来显示/隐藏文件感觉逼格比在访达app里敲`Command` + `Shift` + `.`高（~~BS~~）。
 
-### [Mail Startup Helper.app](./Mail Startup Helper.app)
+### [Mail Startup Helper.app](./Mail%20Startup%20Helper.app)
 
 系统自带的邮件app好像不能开机自启，相关的设置跟开玩笑一样。鉴于这个应用苹果应该有段时间没搭理了，只好写了一个Apple Script应用“打个补丁”。（其实，我现在已经不用自带的邮件app了，有些场景不是那么好用好吧）
 

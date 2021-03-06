@@ -8,11 +8,11 @@ I bet you understand as a new consumer of MacBook I feel funny to explore MacOS.
 
 ## Script Instructions
 
-### [Hidden Files Helper.app](./Hidden Files Helper.app)
+### [Hidden Files Helper.app](./Hidden%20Files%20Helper.app)
 
 Although showing/hiding hidden files can be easily achieved by typing `Command` + `Shift` + `.` in the Finder app, it can also be controlled programmaticially. Hidden Files Helper is such an Apple Script app achieving it.
 
-### [Mail Startup Helper.app](./Mail Startup Helper.app)
+### [Mail Startup Helper.app](./Mail%20Startup%20Helper.app)
 
 It is weired that the Mail app cannot start up with OS, even though the corresponding preference is turned on. It seems to be a bug by searching Google. One way to solve it is to write an Apple Script app, and here it is - Mail Startup Helper!
 
