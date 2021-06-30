@@ -4,7 +4,7 @@
 
 **English** | [简体中文](./README-zhCN.md)
 
-I bet you understand as a new consumer of MacBook I feel funny to explore MacOS. Apple Script can sometimes be a magic. This repository contains code written for fun to "taste" Apple Script.
+I bet you understand I feel so excited to explore MacOS as a new consumer of MacBook Pro, especially with the M1 chip. Apple Script can sometimes be a magic. This repository contains code written for fun to "taste" Apple Script.
 
 ## Script Instructions
 
@@ -18,4 +18,4 @@ It is weired that the Mail app cannot start up with OS, even though the correspo
 
 ## ATTENTION
 
-1. By 6 March 2021, everything looks good with MacOS Big Sur (Version: 11.2.2) on MacBook Pro (M1, 2020).
+1. By 30 June 2021, everything looks good with MacOS Big Sur (Version: 11.4) on MacBook Pro (M1, 2020).
