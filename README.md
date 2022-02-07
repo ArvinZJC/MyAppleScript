@@ -4,13 +4,13 @@
 
 **English** | [简体中文](./README-zhCN.md)
 
-I bet you understand I feel so excited to explore MacOS as a new consumer of MacBook Pro, especially with the M1 chip. AppleScript can sometimes be a magic. This repository contains code written for fun to "taste" AppleScript.
+I bet you understand I feel so excited to explore macOS as a new consumer of MacBook Pro, especially with the M1 chip. AppleScript can sometimes be a magic. This repository contains code written for fun to "taste" AppleScript.
 
 ## ❗ ATTENTION
 
 > May I have your attention pls? 🔥
 
-1. By 17 October 2021, everything looks good with MacOS Big Sur (Version: 11.6) on MacBook Pro (M1, 2020).
+1. This project is licensed under [the MIT License](./LICENSE). By 7 February 2022, everything looks good with macOS Monterey (Version: 12.1) on MacBook Pro (M1, 2020).
 2. Don't take it seriously! All just for fun.
 
 ## Script Instructions

@@ -1,4 +1,4 @@
-# 我的AppleScript
+# 我的 AppleScript
 
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/MyAppleScript)
 
@@ -6,13 +6,13 @@
 
 都说 M1 香（~~也就那样吧~~），我也就不多考虑剁手了一台 MBP。逃离黑苹果还是蛮开心的。真香嗷！XD
 
-话不多说，激动的心情难以言表。抽空就体验一下 MacOS，发现 AppleScript 可玩性还不错，就随便敲点代码放在这个仓库了。
+话不多说，激动的心情难以言表。抽空就体验一下 macOS，发现 AppleScript 可玩性还不错，就随便敲点代码放在这个仓库了。
 
 ## ❗ 注意
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 截至2021年10月3日，使用 MacBook Pro（M1， 2020）的 MacOS Big Sur（版本：11.6）开发表现良好。
+1. 此项目使用 [MIT 协议](./LICENSE)。截至 2022 年 2 月 7 日，使用 MacBook Pro（M1， 2020）的 macOS Monterey（版本：12.1）开发表现良好。
 2. 不要那么认真哦！这个纯为了体验一下 AppleScript。
 
 ## 脚本说明
