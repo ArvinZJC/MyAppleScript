@@ -1,5 +1,6 @@
 # 我的 AppleScript
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/95a932c0e4ca4f58bb24c08abb562adc)](https://www.codacy.com/gh/ArvinZJC/MyAppleScript/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ArvinZJC/MyAppleScript&utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/MyAppleScript)
 
 [English](./README.md) | **简体中文**
